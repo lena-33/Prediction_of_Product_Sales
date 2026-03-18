@@ -23,9 +23,9 @@ Extensive Exploratory Data Analysis was conducted to unveil underlying data dist
 #### 1. Correlation Heatmap
 ![Heatmap](images/Heatmap.png)
 
-The heatmap shows a strong positive correlation between Item MRP and Item Outlet Sales.
+The heatmap shows a strong positive correlation between `Item_MRP` and `Item_Outlet_Sales`.
 
 #### 2. Boxplot of Sales
-![Boxplot](path_to_image)
+![Boxplot](images/boxplot.png)
 
-The boxplot reveals the presence of outliers in Item Outlet Sales.
+The boxplot reveals the presence of outliers in `Item_Outlet_Sales` & `Item_Visibility`.
