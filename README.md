@@ -21,7 +21,7 @@ Extensive Exploratory Data Analysis was conducted to unveil underlying data dist
 ### Key Visualizations
 
 #### 1. Correlation Heatmap
-![Heatmap](path_to_image)
+![Heatmap](images/Heatmap.png)
 
 The heatmap shows a strong positive correlation between Item MRP and Item Outlet Sales.
 
